@@ -18,5 +18,8 @@ public class Passenger {
 	public void NewMethod3(){
 		System.out.println("I'm Testing My Branch..");
 		}
+	public void Conflict_Branch(){
+		System.out.println("");
+		}
 
 }
