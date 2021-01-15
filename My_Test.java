@@ -15,4 +15,8 @@ public class Passenger {
 		//OH
 	}
 
+	public void NewMethod3(){
+		System.out.println("I'm Testing My Branch..");
+		}
+
 }
