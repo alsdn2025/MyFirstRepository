@@ -18,5 +18,8 @@ public class Passenger {
 	public void NewMethod3(){
 		System.out.println("I'm Testing My Branch..");
 		}
+	public void Branch_Conflict(){
+		System.out.Println("Now On Testing Branch Conflict");
+	}
 
 }
