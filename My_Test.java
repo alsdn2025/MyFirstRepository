@@ -10,4 +10,9 @@ public class Passenger {
     public void sayName() {
         System.out.println(String.format("Hi, I'm %s!", this.name));
     }
+
+	public void NewMethod2(){
+		//OH
+	}
+
 }
