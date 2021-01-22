@@ -1,0 +1,10 @@
+D:\C#proj\SBCS\DigitalClock\bin\Debug\DigitalClock.exe.config
+D:\C#proj\SBCS\DigitalClock\bin\Debug\DigitalClock.exe
+D:\C#proj\SBCS\DigitalClock\bin\Debug\DigitalClock.pdb
+D:\C#proj\SBCS\DigitalClock\obj\Debug\DigitalClock.csprojAssemblyReference.cache
+D:\C#proj\SBCS\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+D:\C#proj\SBCS\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+D:\C#proj\SBCS\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\DigitalClock\obj\Debug\DigitalClock.exe
+D:\C#proj\SBCS\DigitalClock\obj\Debug\DigitalClock.pdb
+D:\C#proj\SBCS\DigitalClock\obj\Debug\DigitalClock.Form1.resources
